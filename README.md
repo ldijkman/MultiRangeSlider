@@ -1,6 +1,6 @@
 MultiRangeSlider (Mrs)
 ===================
-timebar, timeline, schedule, scheduler, per day sechedule
+timebar, timeline, schedule, scheduler, per day schedule
 
 elgato eve aqua apple homekit eve home smart wall plug
 
