@@ -1,4 +1,4 @@
-MultiRangeSlider (Mrs)
+Multi Range Slider Scheduler (Mrs)
 ===================
 timebar, timeline, schedule, scheduler, per day schedule, 
 
