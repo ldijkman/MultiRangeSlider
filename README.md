@@ -1,5 +1,8 @@
 MultiRangeSlider (Mrs)
 ===================
+timebar, timeline, schedule, scheduler, per day sechedule
+
+elgato eve aqua apple homekit eve home smart wall plug
 
 Extends jquery-ui slider widget to include multiple ranges.
 
